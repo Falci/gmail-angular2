@@ -9,9 +9,9 @@ function root(args) {
 module.exports = {
   devtool: 'source-map',
   debug: true,
-  entry: './app/boot.ts',
+  entry: './app/main.ts',
   resolve: {
-    extensions: ['', '.ts', '.js', '.html']
+    extensions: ['', '.ts', '.js', '.html', '.scss']
   },
   output: {
     path: './build',
