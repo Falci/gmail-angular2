@@ -18,4 +18,4 @@ typings install
 npm start
 ```
 
-Then navigate your browser to http://localhost:3001 and use the app.
+Then navigate your browser to [http://localhost:3001](http://localhost:3001) and use the app.
